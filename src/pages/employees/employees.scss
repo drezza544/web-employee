@@ -1,0 +1,29 @@
+#container {
+    .content__ {
+        .main-datagrid {
+            margin-top: 20px;
+        }
+    }
+}
+
+
+.toolbar-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+    .dx-button {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    @media (max-width: 768px) {
+        flex-direction: column;
+        align-items: stretch;
+
+        .dx-button {
+            width: 100%;
+        }
+    }
+}

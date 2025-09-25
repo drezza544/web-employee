@@ -1,0 +1,33 @@
+$primary: #0463C1;
+$primary_2: #61AAFF;
+$primary_3: #0463C1;
+$primary_4: #0056B8;
+$green: #3CCA75;
+$orange: #FF9A61;
+$grey: #E5E5E5;
+$secon_grey: #52575C;
+$white: #FFFFFF;
+$black: #000000;
+
+
+.gradient-button {
+    // background-image: linear-gradient($green, $primary_2, $primary_3);
+    background: linear-gradient(169deg, rgba(60,202,117,1) 27%, rgba(97,170,255,1) 76%, rgba(97,170,255,1) 100%);
+
+}
+
+.btn-no-border {
+    border: none !important;
+}
+
+.btn-basicbutton {
+    color: $white;
+    border-radius: 10px;
+    
+    &:hover {
+        color: $white;
+    }
+    .title {
+        color: $white;
+    }
+}
