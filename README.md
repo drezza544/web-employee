@@ -90,11 +90,11 @@ export default defineConfig([
 - ✅ Pagination Support  
 
 ## Install Package
-1. npm install
+- npm install
 
 ## Setup Environment
-VITE_APP_NAME=Web Employee
-VITE_API_URL=http://localhost:8000/api
+- VITE_APP_NAME=Web Employee
+- VITE_API_URL=http://localhost:8000/api
 
 ## Run Project
-npm run dev
+- npm run dev
