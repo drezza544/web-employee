@@ -73,8 +73,7 @@ export default defineConfig([
 ``` -->
 
 
-- Web Employee -
-version: v1.0
+## Web Employee v1.0 -
 
 ## Use Framework React Typescript + VITE
 
