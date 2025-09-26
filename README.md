@@ -84,6 +84,17 @@ export default defineConfig([
 ## Node Versi
 22.11.0
 
+*Notes: Saran saya menggunakan NVM untuk bisa menyesuaikan version node nya. jadi di NVM akan memiliki beberapa list node yang dapat dipakai.*
+
+```bash
+nvm list                                                             
+
+    22.11.0
+  * 20.9.0 (Currently using 64-bit executable)
+    16.13.0
+    14.15.0
+```
+
 ## 🚀 Fitur
 
 - ✅ Create Employee  
