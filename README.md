@@ -81,6 +81,9 @@ export default defineConfig([
 1. Material UI
 2. DevExtreme
 
+## Node Versi
+22.11.0
+
 ## 🚀 Fitur
 
 - ✅ Create Employee  
